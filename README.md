@@ -1,6 +1,7 @@
 ¡Hola! 👋 Soy Marko, full stack developer de Argentina!! 🤍💙
 
-![imagen](https://user-images.githubusercontent.com/99920480/190204247-01971518-fb83-464f-b34e-e936b844b8b4.png)
+![imagen](https://user-images.githubusercontent.com/99920480/190208015-b8dcca83-47d6-44ce-9a1f-82f32b43903c.png)
+
 
 👀 ¿Quién soy?
 
