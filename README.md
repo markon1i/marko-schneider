@@ -1,4 +1,4 @@
-¡Hola! 👋 Soy Marko de Argentina!! 🤍💙
+¡Hola! 👋 Soy Marko full stack developer de Argentina!! 🤍💙
 
 ![imagen](https://user-images.githubusercontent.com/99920480/190204247-01971518-fb83-464f-b34e-e936b844b8b4.png)
 
